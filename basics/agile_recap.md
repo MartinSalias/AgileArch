@@ -19,3 +19,14 @@ The text of the Manifesto says:
 >>    **Responding to change** over following a plan
 
 > That is, while there is value in the items on the right, we value the items on the left more.
+
+## My personal view on Agile
+
+After almost 20 years working under the agile paradigm, starting with the early XP days by the late 90s, as you might expect, I have some strong opinions about this model and its impact in the industry and the community.
+
+I don't think  my ideas are particularly original or important, but as the book moves into the model I found to put them to work into software architecture, I think it is important to tell you about some of them, even if this serves to set some disagreement early on.
+
+
+
+
+
