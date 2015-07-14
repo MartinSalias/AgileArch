@@ -26,7 +26,10 @@ After almost 20 years working under the agile paradigm, starting with the early 
 
 I don't think  my ideas are particularly original or important, but as the book moves into the model I found to put them to work into software architecture, I think it is important to tell you about some of them, even if this serves to set some disagreement early on.
 
+So here I go:
 
+### Agile is cultural approach
 
+I find the frequent usage of "Agile Methodologies" somewhat unfortunate. Some people still thinks that Agile is just a different way to run projects, but it is way beyond this. As Kent Beck used to say about XP, it is about **social change**.
 
-
+As pretentious as it might sound, Agile is mostly about changing from __centralized__ decision-making and high-specialization to an environment of __shared__ decision-making and high-collaboration.
