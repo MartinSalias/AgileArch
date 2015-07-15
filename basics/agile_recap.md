@@ -28,8 +28,10 @@ I don't think  my ideas are particularly original or important, but as the book 
 
 So here I go:
 
-### Agile is cultural approach
+### Agile is a cultural approach
 
 I find the frequent usage of "Agile Methodologies" somewhat unfortunate. Some people still thinks that Agile is just a different way to run projects, but it is way beyond this. As Kent Beck used to say about XP, it is about **social change**.
 
-As pretentious as it might sound, Agile is mostly about changing from __centralized__ decision-making and high-specialization to an environment of __shared__ decision-making and high-collaboration.
+As pretentious as the "social change" might sound, Agile is mostly about moving from __centralized__ decision-making and high-specialization to an environment of __shared__ decision-making and high-collaboration. This is somehow subversive in the sense of potentially breaking change of commands, which quickly push for a different distribution of money, power, knowledge and so on.
+
+Of course, this is an ideal, but it is there, and I believe that continuous improvement only can get you close to that. Otherwise, improvement will slow down.
