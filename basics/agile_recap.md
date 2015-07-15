@@ -34,4 +34,12 @@ I find the frequent usage of "Agile Methodologies" somewhat unfortunate. Some pe
 
 As pretentious as **social change** might sound, Agile is mostly about moving from _centralized_ decision-making and high-specialization to an environment of _shared_ decision-making and high-collaboration. This is somehow subversive in the sense of potentially breaking change of commands, which quickly push for a different distribution of money, power, knowledge and so on.
 
-Of course, this is an ideal, but it is there, and I believe that continuous improvement only can get you close to that. Otherwise, improvement will slow down.
+Of course, this is an ideal, but it is there, and I believe that continuous improvement only can get you close to that. Otherwise, improvement will slow down and probably stale.
+
+### Agility requires Quality
+
+Quality in execution comes from avoiding shortcuts and being transparent about what you do, without looking someone to blame when things fail, but looking for underlying problem and fixing root causes.
+
+Transparency, introspection and improvement are core values of Agile, and that's why one things brings to the other.
+
+Moreover, Technical Excellence is one of the principles stated in the Manifesto, and is one of the distinctive trait one consistently find in succeeding Agile teams. Indeed, many teams adopting Agile can get great results at first, but quickly get in trouble when neglecting technical improvement. This pattern was so common that even Ken Schwaber (one of the _fathers_ of Scrum) started using the term "Flaccid Scrum" to describe the problem. As Scrum 
