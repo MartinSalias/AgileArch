@@ -1,3 +1,12 @@
+## Disclaimer:
+This book is still being written. The topics in the table of content will probably change over time. Also, I'm writing following a slicing strategy: instead of writing whole chapters or sections, I'm constantly adding text everywhere, trying to cover a wider range first, then going deeper in each topic, in an organic fashion. I can't guarantee the results, but I'm having fun!
+
+Please feel free to provide feedback to me as you want. The easier way to contact me is via Twitter at [@MartinSalias](http://twitter.com/MartinSalias).
+
+Thanks for reading!
+
+## Overview
+
 Software Architecture is a wide and complex discipline, full of different perspectives, opinions and definitions. If there is something in which most practitioners agree is in its importance, and how the lack of thought on the subject –even while it should be proportional to the problem at hand- tends to produce poor or downright deficient results.
 
 The main idea behind this work is that, as fundamental as software architecture is, it shouldn’t be considered a separate activity on the whole software life cycle, either to be performed by an isolated group or individual, or to be conceived in a separate phase from the majority of the construction process.
