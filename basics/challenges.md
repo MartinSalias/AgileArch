@@ -21,7 +21,7 @@ Most of these challenges are usually tackled by folding architectural discussion
 This article does not cover in detail specific techniques that
 apply to coordinating several subteams; mainly, it mirrors the standard guidelines about “Scrum of Scrums”. The addition to such activities is a stronger focus on the preservation of conceptual integrity—thus, planning frequent high-level design meetings between teams. Again, these meetings should avoid becoming architect meetings; while the contribution of team members who have a stronger architectural background is obviously important, it is very important for other members to participate. Even the less experienced team members can provide a somewhat naïve perspective to some discussion—promptly flagging complexity excesses that are a professional malady among us architects.
 
-To close on the team dynamics, as the agile perspective goes over the standard view of the development team and extends to customers, operations personnel, and other stakeholders, expectation management is a big deal also for the solution architecture. As the next section shows, there is a strong emphasis on mapping the needs and goals of these actors to the architectural constraints and converting the most important into strong metrics to be evaluated.
+To close on the team dynamics, as the agile perspective goes over the standard view of the development team and extends to customers, operations personnel, and other stakeholders, expectation management is a big deal also for the solution architecture. In the strategy I present in this book there is a strong emphasis on mapping the needs and goals of these actors to the architectural constraints and converting the most important ones into strong metrics to be evaluated.
 
 
 
