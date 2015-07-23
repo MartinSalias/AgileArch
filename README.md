@@ -3,6 +3,8 @@ This book is still being written. The topics in the table of content will probab
 
 Please feel free to provide feedback to me as you want. The easier way to contact me is via Twitter at [@MartinSalias](http://twitter.com/MartinSalias).
 
+And don't forget to visit us at [Kleer](http://kleer.la)!
+
 Thanks for reading!
 
 ## Overview
