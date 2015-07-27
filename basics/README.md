@@ -30,6 +30,6 @@ Also, I feel in debt with Ted Neward, whose book "Effective Enterprise Java" had
 
 I also need to thank the whole Southworks crew, in special Johnny Halife, Matias Woloski and my old-time friend Angel "Java" López. I always miss the awsome discussions we had, full of ideas and practical wisdom. Also, I enjoyed working and discussing with the team at Microsoft Patterns & Practices, one of Southworks most important customers, in particular Eugenio Pace and Scott Densmore.
 
-As I joined Kleer and designed my Agile Architecture Workshop, I had great input from several of my colleagues, especially Juan Gabardini, Luis Mulato and Yamit Cárdenas.
+As I joined Kleer and designed my Agile Architecture Workshop, I had great input from several of my colleagues at Kleer, especially Juan Gabardini, Luis Mulato and Yamit Cárdenas, and colleagues from other companies like Raúl de Villa Cano, Marcelo Oks, Andrés Joaquín, Adrián Anacleto, Santiago Blanco and many more I'm probably forgetting.
 
 Lastly, I want to thank the first reviewers of this book, Nico Páez and Scott Baldwin.
