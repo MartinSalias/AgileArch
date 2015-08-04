@@ -3,3 +3,13 @@ I hope you don't mind, but I have compiled a list of edits that are just simple 
 I haven't had the money to come back to Buenos Aires since the last time I saw you (2011), but I am sure that at some stage I'm sure I will.
 Hope family life is good for you, and that your business is prospering.
 Cheers.
+
+CHECK:
+Even while this book title
+Should read
+Even while this book’s title
+
+ideas from which my model arise
+
+should read
+ideas from which my model arises
