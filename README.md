@@ -9,9 +9,9 @@ Thanks for reading!
 
 ## Overview
 
-Software Architecture is a wide and complex discipline, full of different perspectives, opinions and definitions. If there is something in which most practitioners agree is in its importance, and how the lack of thought on the subject –even while it should be proportional to the problem at hand- tends to produce poor or downright deficient results.
+Software Architecture is a wide and complex discipline, full of different perspectives, opinions and definitions. If there is something in which most practitioners agree is in its importance, and how the lack of thought on the subject -even while it should be proportional to the problem at hand- tends to produce poor or downright deficient results.
 
-The main idea behind this work is that, as fundamental as software architecture is, it shouldn’t be considered a separate activity on the whole software life cycle, either to be performed by an isolated group or individual, or to be conceived in a separate phase from the majority of the construction process.
+The main idea behind this work is that, as fundamental as software architecture is, it shouldn't be considered a separate activity on the whole software life cycle, either to be performed by an isolated group or individual, or to be conceived in a separate phase from the majority of the construction process.
 
 Following the main ideas of iterative and incremental development on the Agile paradigm, my thesis is that the best software architecture for a given project emerges as the rest of the projects goes on, and that there are concrete practices and techniques that support the incremental design of the architecture together with the rest of the application, allowing for late but safe refinement whenever needed.
 
