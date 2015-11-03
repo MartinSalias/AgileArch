@@ -15,6 +15,7 @@ In particular, I always liked the “Quality Attribute Workshop” (or QAW) from
 7. Scenario Prioritization
 8. Scenario Refinement
 
+
 What I like from this approach is it pays attention to the business goal first, and then focus on scenarios discussed among business and technical people.
 
 The main problem I found, as you can easily imagine, is that the workshop is an activity designed to be run at the start of the project, when all involved people know very little about the actual system being built, beyond the conceptual model and it assumptions. For the most part, little to nothing has been built, and no single feature has been used yet.
@@ -38,12 +39,20 @@ Of course, some of these concerns might have appeared previously (in previous Us
 Whenever one of this issues appears the Team (together with the involved stakeholders) might take note in some artifact like this:
 
 > **Response Time**
+>
 > Context:
+>
 >   Once a Purchase is confirmed, the user should not wait for confirmation.
+>
 > Metric:
+>
 >   After confirmation, "Keep shopping" page should take no more than a second to render.
+>
 > Strategy:
+>
 >   Operations are queued, and eventual failure will be informed by email and site notifications.
+>
+
 
 Notice that in the example above the decision is generalized from Book Purchase to "Purchase operations" in general. This card should be ideally pasted on a board in the Team Room (instead of going to die on a Wiki Page) to be frequently seen. It might also generate some specific technical tasks under the Book Purchase user story that will later be re-used, but this decision and the corresponding implementation are directly tied to a feature, and will be tested and reviewed in this context, rather than in a concpetual model.
 
