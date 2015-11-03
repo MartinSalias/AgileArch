@@ -31,10 +31,26 @@ For example, given a User Story relating to a Book Purchase, they will analyze (
 
 - Is there any specific performance or security consideration?
 - Is this something we will need to change frequently, where maintainability will be important?
-- Is there any specific regional or accessibilty concerns?
+- Is there any specific regional or accessibility concerns?
 
+Of course, some of these concerns might have appeared previously (in previous User Stories), and some of them might have become part of the Team's Definition of Done [^DoD].
 
+Whenever one of this issues appears the Team (together with the involved stakeholders) might take note in some artifact like this:
 
+> **Response Time**
+> Context:
+>   Once a Purchase is confirmed, the user should not wait for confirmation.
+> Metric:
+>   After confirmation, "Keep shopping" page should take no more than a second to render.
+> Strategy:
+>   Operations are queued, and eventual failure will be informed by email and site notifications.
+
+Notice that in the example above the decision is generalized from Book Purchase to "Purchase operations" in general. This card should be ideally pasted on a board in the Team Room (instead of going to die on a Wiki Page) to be frequently seen. It might also generate some specific technical tasks under the Book Purchase user story that will later be re-used, but this decision and the corresponding implementation are directly tied to a feature, and will be tested and reviewed in this context, rather than in a concpetual model.
+
+The "Metric" field in the card should become an automated test which can be executed either continually (in every commit) or in a nightly profile (for load or performance testing requiring long-running or heavy processes which you don't want to compromise your network during the day).
+
+**Important:** Automatically validating your architectural decisions and testing those continually is one of the main focus of an Agile Architecture approach. The Team needs to know if anything they do (either changing an architectural component or adjusting some business logic) breaks some of the expectations about quality they discussed with stakeholders, and be able to quickly find what happened and fix it.
 
 
 [^2] “Software Architecture in Practice”, 3rd edition, Len Bass, Paul Clements, Rick Kazman, SEI Series, Pearson, 2013.
+[^DoD] The Definition of Done is a set of criteria that an Agile Team agrees upon to consider a Backlog Item completely "Done". This typically include things like committed to source code, all unit, integration and regression test passed (probably executed by the Build Server), and some other important validation or tasks the Team consider important for the product they are building.
