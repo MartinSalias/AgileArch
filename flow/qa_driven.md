@@ -1,0 +1,40 @@
+# Quality-Driven Architecture
+
+Beyond the different definitions found for Software Architecture, Quality Attributes (also mentioned as non-funtional requirements) are always at the core of the field.
+
+This is completely independent of the Agile approach, as seen in many different formal approaches used over time to base architectural decisions on this attributes.
+
+In particular, I always liked the “Quality Attribute Workshop” (or QAW) from SEI's Software Architecture in Practice [^2]. The QAW follows an eight-step approach to discuss about the Quality Attributes for a system during a Workshop event at project's inception, where business and technical people discuss these matters. The steps are the following:
+
+1. QAW Presentation and Introductions
+2. Business/Mission Presentation
+3. Architectural Plan Presentation
+4. Identification of Architectural Drivers
+5. Scenario Brainstorming
+6. Scenario Consolidation
+7. Scenario Prioritization
+8. Scenario Refinement
+
+What I like from this approach is it pays attention to the business goal first, and then focus on scenarios discussed among business and technical people.
+
+The main problem I found, as you can easily imagine, is that the workshop is an activity designed to be run at the start of the project, when all involved people know very little about the actual system being built, beyond the conceptual model and it assumptions. For the most part, little to nothing has been built, and no single feature has been used yet.
+
+## Iterative approach to Quality Attributes
+
+Taken the previous idea and breaking it down to smaller, frequent discussions best fit to an Agile team, I came up with a lighter plan to achieve the same effect:.
+
+First, we might have a brief discussion about high-level Architecture and Quality Attribute prioritization as part of the Agile Inception Workshop (more on this later in the "Practices" chapter). But we won't try to define anything about this too much, but having an overall idea and a starting strategy instead.
+
+Then, we will have some time to discuss about Quality Attributes in every Iteration (or Sprint) Planning meeting; not as an aside, but potentially around *every* User Story (or Backlog Item). So, for each small feature (or the bigger feature it is included in) the team will review what the quality expectations are.
+
+For example, given a User Story relating to a Book Purchase, they will analyze (after the functional details) with the stakeholders:
+
+- Is there any specific performance or security consideration?
+- Is this something we will need to change frequently, where maintainability will be important?
+- Is there any specific regional or accessibilty concerns?
+
+
+
+
+
+[^2] “Software Architecture in Practice”, 3rd edition, Len Bass, Paul Clements, Rick Kazman, SEI Series, Pearson, 2013.
