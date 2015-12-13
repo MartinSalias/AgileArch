@@ -46,7 +46,7 @@ Whenever one of this issues appears the Team (together with the involved stakeho
 >
 > Metric:
 >
->   After confirmation, "Keep shopping" page should take no more than a second to render.
+>   After confirmation, "Keep shopping" page should take no more than 0.4 seconds to render.
 >
 > Strategy:
 >
@@ -62,4 +62,5 @@ The "Metric" field in the card should become an automated test which can be exec
 
 
 [^2] “Software Architecture in Practice”, 3rd edition, Len Bass, Paul Clements, Rick Kazman, SEI Series, Pearson, 2013.
+
 [^DoD] The Definition of Done is a set of criteria that an Agile Team agrees upon to consider a Backlog Item completely "Done". This typically include things like committed to source code, all unit, integration and regression test passed (probably executed by the Build Server), and some other important validation or tasks the Team consider important for the product they are building.
