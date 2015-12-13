@@ -54,7 +54,7 @@ Whenever one of this issues appears the Team (together with the involved stakeho
 >
 
 
-Notice that in the example above the decision is generalized from Book Purchase to "Purchase operations" in general. This card should be ideally pasted on a board in the Team Room (instead of going to die on a Wiki Page) to be frequently seen. It might also generate some specific technical tasks under the Book Purchase user story that will later be re-used, but this decision and the corresponding implementation are directly tied to a feature, and will be tested and reviewed in this context, rather than in a concpetual model.
+Notice that in the example above the decision is generalized from Book Purchase to "Purchase operations" in general. This card should be ideally pasted on a board in the Team Room (instead of going to die on a Wiki Page) to be frequently seen. It might also generate some specific technical tasks under the Book Purchase user story that will later be re-used, but this decision and the corresponding implementation are directly tied to a feature, and will be tested and reviewed in this context, rather than in a conceptual model.
 
 The "Metric" field in the card should become an automated test which can be executed either continually (in every commit) or in a nightly profile (for load or performance testing requiring long-running or heavy processes which you don't want to compromise your network during the day).
 
