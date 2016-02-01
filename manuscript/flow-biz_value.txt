@@ -16,7 +16,7 @@ We do this by using the deck not only during an Agile Inception or other kind of
 
 To better illustrate how architectural discussion gets integrated as part of the expected "osmotic communication" of an agile environment, I will use the Scrum diagram drawn by my friend and colleague Martin Alaimo:
 
-![Scrum](../images/Scrum-Alaimo.png "Scrum - a framework (by @MartinAlaimo)")
+![Scrum](images/Scrum-Alaimo.png "Scrum - a framework (by @MartinAlaimo)")
 
 Even if you are not following Scrum, this diagram shows  high level view of most iterative flows. Below I list the Scrum names and then the generic description which can apply to any other agile approach.
 
