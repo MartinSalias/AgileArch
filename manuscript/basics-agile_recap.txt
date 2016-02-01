@@ -2,7 +2,7 @@
 
 As Agile Methodologies decreases focus on written documentation in favor of oral and visual communication, I will start using my colleague's Pablitux poster to review the Agile Manifesto:
 
-![Agile Manifesto](images/agile_manifesto.png "Agile Manifesto (by @pablitux)")
+![Agile Manifesto (by @pablitux)](images/agile_manifesto.png)
 
 The text of the Manifesto says:
 
