@@ -1,0 +1,20 @@
+# Emergent vs. Adaptive
+
+Even while this book's title is Agile Architecture to try to convey the main ideas from which my model arises, I like to use the term Adaptive Architecture also, as there are a lot of ideas that could be used even in the context of not-so agile projects.
+
+## Emergent behavior
+
+In Complex System Theory, _emergence_ is the process where a system composed by several smaller entities shows properties that are not explicitly present in its parts. In Software Development, we used the idea of Emergent Behavior quite a few times, trying to explain how smaller functions, objects or components build up to a system exhibiting some features that are beyond the sum of its parts.
+
+While the metaphor is nice and powerful, most software systems (with the exception of some Artificial Intelligence approaches) have not real emergent properties, because causality is too high on them, as we design components and the way they interact with a very specific purpose.
+
+Growth of software projects and products is better explained by looking at Complex Adaptive Systems, which -although usually based on emergent behavior- have a difference in purpose and specialization (typically to foster survival). Adaptive Systems are complex in the dynamics of their interactions, and they don't _just happen_, but self-organize to achieve a goal.
+
+## Adaptive Systems
+In the highly multidisciplinary realm of Complexity Theory we as software developers or architects join economists, politicians, ethologists, entomologists, and a plethora of other professions dealing with loosely coupled relations and varying contexts.
+
+Software is adaptive both from the development perspective, as development teams are comprised of humans dealing with a creative process, surrounded by changing conditions, subject to volatile restrictions and with unpredictable input (from other humans).
+
+The Agile paradigm recognizes these factors and thus applies an empiric process where all this factors are constantly observed, following the scientific method of formulating hypothesis, trying to prove or discard them, then building on that learning to formulate further hypothesis.
+
+In that sense, Architecture should follow the same principle, and to that end, I prefer to come up with _architectural hypothesis_ when there are concrete experiments to run in order to prove them. And this hardly appears before actual functionality is built.

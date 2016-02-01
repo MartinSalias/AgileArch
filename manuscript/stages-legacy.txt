@@ -1,0 +1,5 @@
+# Legacies
+
+Especially, core systems.
+
+See Fowler's [StranglerApps](http://martinfowler.com/bliki/StranglerApplication.html).
