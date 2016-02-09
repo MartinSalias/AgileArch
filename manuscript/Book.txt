@@ -19,7 +19,7 @@ practices-devops.txt
 styles-README.txt
 styles-monolyth.txt
 styles-microservices.txt
-styles-actors.txt)
+styles-actors.txt
 styles-cloud.txt
 stages-README.txt
 stages-green.txt
