@@ -1,4 +1,4 @@
-# Architectural Inception
+## Architectural Inception
 
 Agile Inception is currently a widely used technique used to create a shared vision among the Development Team and the rest of the stakeholders for a given product. First documented by Jonathan Rasmusson in "The Agile Samurai" (Pragmatic Bookshelf, 2010), it involves 10 activities which can be run in a single workshop, sometimes picking some of them or complementing them with other, depending on the project/product at hand.
 
@@ -28,7 +28,7 @@ In short, the 10 activities I run are:
 
 As you can expect, there is a lot more involved in this workshop, but my goal in this section is to provide you with a general idea and get slightly deeper in the two highlighted activities:
 
-## The Solution
+### The Solution
 
 While the technical participants will be leading this activity, the main purpose is for them to clearly explain to the rest of the group several things that they better understand and agree on as soon as possible. For example:
 
@@ -40,7 +40,7 @@ While the technical participants will be leading this activity, the main purpose
 
 What we try to achieve here is a shared understanding about implementation/architectural details and how they will support the main business requirements. As the group sketches diagrams and talk about the implications of different parts, a lot of assumptions from the different participant areas come to light and new ideas retrofit this early draft of the architecture.
 
-## Trade-Off
+### Trade-Off
 
 The starting point for this activity is to agree on a set of 5 to 8 attributes representing the main non-functional concerns about the product. Most of these are the typical Quality Attributes we use in Software Architecture, but I often let the group add some they find important. For example, I find these in real-life Inceptions I facilitated: Total Cost of Ownership, Time-to-Market, and even Team Life Quality[^1].
 
