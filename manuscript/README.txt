@@ -1,4 +1,4 @@
-## Disclaimer:
+### Disclaimer:
 This book is still being written. The topics in the table of content will probably change over time. Also, I'm writing following a slicing strategy: instead of writing whole chapters or sections, I'm constantly adding text everywhere, trying to cover a wider range first, then going deeper in each topic, in an organic fashion. I can't guarantee the results, but I'm having fun!
 
 Please feel free to provide feedback to me as you want. The easier way to contact me is via Twitter at [@MartinSalias](http://twitter.com/MartinSalias).

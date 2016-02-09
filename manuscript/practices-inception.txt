@@ -7,14 +7,23 @@ I facilitated dozens of these workshops over the years, for organizations rangin
 In short, the 10 activities I run are:
 
 1. Why are we here? - A check-in round with a twist, were every participants states not only their name and role, but what they understand it is their involvement with the product.
+
 2. Elevator Pitch - The group design a **very** short phrase explaining what the product is, whom its users are, its main features, its competitive advantage and some other relevant detail. As an alternative I can use a Product Vision Board (PVB) instead, depending on the audience.
+
 3. Vision Box - We use a physical box (cereal-type) to design a fictitious box for their product, thinking about it as a retail product (even if its not).
+
 4. In/Out/Maybe - The group creates a simple chart about the very high-level scope of the product, stating what it should have, deciding what it **shouldn't**, and leaving some features in a group to be reconsidered later.
+
 5. Community - This is a diagram about the different groups which need to be involved in the product development, and their different levels of participation, in a visual way.
+
 6. **The Solution** - This is the activity were we talk about the high-level technical decisions we can define up-front to build the product. As some architectural discussion takes place here, I will expand on it later in this section.
+
 7. Fears - We chart all the important risks related to product development and delivery from all the perspectives represented in the workshop such as Technology, Market, Cost, Team, Legal issues, Security and others.
+
 8. Size - Here the group discuss the perceived size of the project from several angles: Team Size, including if the is a need for several teams; estimated duration or deadline, sometimes including an __expected__ release plan.
+
 9. **Trade-Off** - This activity involves prioritizing the main non-functional concerns of the project, debating which ones will take precedence in situations where some design decision targeting one of them conflicts with others. This is the other activity related to architecture strategy, so I will expand on it later in this section, too.
+
 10. How much? - At this point the group makes a __shopping list__ of all the important expected costs, including salaries and fees, hardware and software, services, facilities and anything else that can have an impact in the total cost, and perhaps when or how the cost will impact (initial investment, weekly or monthly, tied to releases, etc). We don't typically try to include the actual cost, but have a clear list to produce an actual budget later.
 
 As you can expect, there is a lot more involved in this workshop, but my goal in this section is to provide you with a general idea and get slightly deeper in the two highlighted activities:
@@ -41,4 +50,4 @@ Once there is an agreement that the line represent their best bet, I usually ask
 
 
 
-[^1] Weirdly enough, the latter was agreed to be the most important issue in that project, as this was the third attempt at solving the same problem, and the pressure had burned the teams on the previous attempts.
+[^1]: Weirdly enough, the latter was agreed to be the most important issue in that project, as this was the third attempt at solving the same problem, and the pressure had burned the teams on the previous attempts.
