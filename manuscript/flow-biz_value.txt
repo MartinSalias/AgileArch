@@ -38,8 +38,9 @@ How can we mix architectural __stuff__ all over there?
   Some inductive reasoning questions I use for that are:
   . What we feel is too fragile so far?
   . What is being to hard to do?
-  . What can we make simpler in our current architecture?
+  . What can be simpler in our current architecture?
 
 A few recommendations before closing this section:
 - Keep architectural ideas coming from the retrospectives on the lookout for next planning
-- Beware of polluting the Definition of Done, and remember that anything there should be explained and agreed with the customers/stakeholders
+- Beware of polluting the Definition of Done
+- Remember the Definition of Done **should be understood and agreed** with the customers/stakeholders
