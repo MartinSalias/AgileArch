@@ -1,4 +1,4 @@
-# Agile Recap
+## Agile Recap
 
 As Agile Methodologies decreases focus on written documentation in favor of oral and visual communication, I will start using my colleague Pablitux's poster to review the Agile Manifesto:
 
@@ -28,7 +28,7 @@ Let's re-read these values from an architectural viewpoint, and ask some questio
 
 
 
-## My personal view on Agile
+### My personal view on Agile
 
 After almost 20 years working under the agile paradigm, starting with the early XP days by the late 90s, as you might expect, I have some strong opinions about this model and its impact in the industry and the community.
 
@@ -36,7 +36,7 @@ I don't think  my ideas are particularly original or important, but as the book 
 
 So here I go:
 
-### Agile is a cultural approach
+#### Agile is a cultural approach
 
 I find the frequent usage of "Agile Methodologies" somewhat unfortunate. Some people still thinks that Agile is just a different way to run projects, but it is way beyond this. As Kent Beck used to say about XP, it is about _social change_.
 
@@ -44,7 +44,7 @@ As pretentious as **social change** might sound, Agile is mostly about moving fr
 
 Of course, this is an ideal, but it is there, and I believe that continuous improvement only can get you close to that. Otherwise, improvement will slow down and probably stale.
 
-### Agility requires Quality
+#### Agility requires Quality
 
 Quality in execution comes from avoiding shortcuts and being transparent about what you do, without looking for someone to blame when things fail, but looking for underlying problem and fixing root causes.
 

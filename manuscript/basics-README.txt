@@ -1,3 +1,4 @@
+# Chapter 1
 # Agile & Software Architecture
 
 Software development is a pretty new discipline. It started in theory with Charles Babbage and his Differential Engine, and Lady Augusta Ada Byron, Countess of Lovelace, becoming the first programmer in history, although she never had the actual computer to execute her programs!
@@ -10,15 +11,15 @@ As computers became popular in the corporate world and software applications got
 
 Agile software development crystalized at the start of the XXI century as a reaction to these prescriptive processes, putting the focus back in the non-repetitive side of programming, fostering relationships, team dynamics, collaboration outside of the technical roles, and maximizing feedback loops everywhere.
 
-In the first part of this book I want to provide a short recap of its main topics, just to set expectations, boundaries and terminology I will use in the resto of the book, and as a pivot for further discussion.
+In the first part of this book I want to provide a short recap of its main topics, just to set expectations, boundaries and terminology I will use in the rest of the book, and as a pivot for further discussion.
 
-First I will review the Agile paradigm from the values and principles and the practices in he most common frameworks like Scrum and Extreme Programming, its Lean cousin Kanban, and then what I understand as the meta-model behind Agile.
+First I will review the Agile paradigm from the values and principles and the practices in he most common frameworks like Scrum and Extreme Programming, its Lean __cousin__ Kanban, and then what I understand as the meta-model behind Agile.
 
 Then I will do the same with Software Architecture, focusing mostly in the type of Architecture I will refer to in this book, and pointing to connected disciplines.
 
 Lastly I want to present my view of the main challenges Software Architecture face on Agile teams, projects and organizations, and provide a short overview of the different approaches I present about this topic during the rest of the book.
 
-## Acknowledgements
+### Acknowledgements
 
 This book is still a work in progress, but luckily I'm not alone. I want to thank several friends who helped me come to the ideas I'm compiling here, and also the ones helping me during writing, by providing feedback about concepts, grammar even my style and humor (or lack of thereof).
 
@@ -26,9 +27,9 @@ I have to thank first Diego Fontdevila who wrote with me the paper where I start
 
 Several years before the paper, I worked and taught Software Architecture with Diego González and Juan Ladetto, whose insights and ideas were really influential in many of my choices and research.
 
-Also, I feel in debt with Ted Neward, whose book "Effective Enterprise Java" had a huge impact in he way I see the field beyond any technology, and of course, because he started the idea of Architectural Katas, which I later adopted and customized to run in several events and also as part of my workshops.
+Also, I feel in debt with Ted Neward, whose book "Effective Enterprise Java" had a huge impact in the way I see the field beyond any technology, and of course, because he started the idea of Architectural Katas, which I later adopted and customized to run in several events and also as part of my workshops.
 
-I also need to thank the whole Southworks crew, in special Johnny Halife, Matias Woloski and my old-time friend Angel "Java" López. I always miss the awsome discussions we had, full of ideas and practical wisdom. Also, I enjoyed working and discussing with the team at Microsoft Patterns & Practices, one of Southworks most important customers, in particular Eugenio Pace and Scott Densmore.
+I also need to thank the whole Southworks crew, in special Johnny Halife, Matias Woloski and my old-time friend Angel "Java" López. I always miss the awesome discussions we had, full of ideas and practical wisdom. Also, I enjoyed working and discussing with the team at Microsoft Patterns & Practices, one of Southworks most important customers, in particular Eugenio Pace and Scott Densmore.
 
 As I joined Kleer and designed my Agile Architecture Workshop, I had great input from several of my colleagues at Kleer, especially Juan Gabardini, Luis Mulato and Yamit Cárdenas, and colleagues from other companies like Raúl de Villa Cano, Marcelo Oks, Andrés Joaquín, Adrián Anacleto, Santiago Blanco and many more I'm probably forgetting.
 

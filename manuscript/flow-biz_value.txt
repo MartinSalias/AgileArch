@@ -1,4 +1,4 @@
-# Business Value
+## Business Value
 
 As we recognize that delivering value early and often is what makes agility attractive to our customers, then we have to be able to justify our technical decisions following the same principle.
 
@@ -12,7 +12,7 @@ To do this, we have to develop a common language accessible to everyone like oth
 
 We do this by using the deck not only during an Agile Inception or other kind of kick-start workshop, but frequently in iteration planning meetings, as we keep finding about the non-functional requirements as we develop the product and start using it.
 
-## Architecture in an Agile development cycle
+### Architecture in an Agile development cycle
 
 To better illustrate how architectural discussion gets integrated as part of the expected "osmotic communication" of an agile environment, I will use the Scrum diagram drawn by my friend and colleague Martin Alaimo:
 
