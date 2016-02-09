@@ -4,7 +4,7 @@ Now that I discussed the Agile paradigm and Software Architecture, let's talk ab
 
 Even while agile methodologies are getting widely accepted in the development world, there is still a lot of debate about how to apply them to the architectural space. One of the most conflictive issues stems around “big design upfront,” which is strongly discouraged by agile practitioners, and the traditional approach to architectural design.
 
-In our original paper from 2010 [^1], Diego Fontdevila and I proposed a set of team dynamics, conceptual practices, and specific technologies to embed software architecture within the agile approach—keeping up the shared goals of technical excellence, streamlined development practices, and a constant and ever- increasing flow of business.
+In our original paper from 2010 [^SAAL], Diego Fontdevila and I proposed a set of team dynamics, conceptual practices, and specific technologies to embed software architecture within the agile approach—keeping up the shared goals of technical excellence, streamlined development practices, and a constant and ever- increasing flow of business.
 
 ## Architectural Dynamics in Agile Teams
 
@@ -25,4 +25,4 @@ To close on the team dynamics, as the agile perspective goes over the standard v
 
 
 
-[^1] Software Architecture in the Agile Life Cycle, by Diego Fontdevila and Martín Salías; published in The Architecture Journal, Issue 23, 2010.
+[^SAAL]: Software Architecture in the Agile Life Cycle, by Diego Fontdevila and Martín Salías; published in The Architecture Journal, Issue 23, 2010.

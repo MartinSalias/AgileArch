@@ -50,4 +50,4 @@ Quality in execution comes from avoiding shortcuts and being transparent about w
 
 Transparency, introspection and improvement are core values of Agile, and that's what one things brings to the other.
 
-Moreover, Technical Excellence is one of the principles stated in the Manifesto, and is one of the distinctive traits one consistently finds in succeeding Agile teams. Indeed, many teams adopting Agile can get great results at first, but quickly get in trouble when neglecting technical improvement. This pattern was so common that even Ken Schwaber (one of the _fathers_ of Scrum) started using the term "Flaccid Scrum" to describe the problem. As Scrum
+Moreover, Technical Excellence is one of the principles stated in the Manifesto, and is one of the distinctive traits one consistently finds in succeeding Agile teams. Indeed, many teams adopting Agile can get great results at first, but quickly get in trouble when neglecting technical improvement. This pattern was so common that even Ken Schwaber (one of the _fathers_ of Scrum) started using the term "Flaccid Scrum" to describe the problem.
