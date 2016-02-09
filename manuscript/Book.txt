@@ -1,4 +1,6 @@
+frontmatter.txt
 README.txt
+mainmatter.txt
 basics-README.txt
 basics-agile_recap.txt
 basics-arch_recap.txt
@@ -30,5 +32,6 @@ architect-facilitator.txt
 architect-communicator.txt
 architect-designer.txt
 architect-innovator.txt
+backmatter.txt
 append-README.txt
 append-tarot.txt
