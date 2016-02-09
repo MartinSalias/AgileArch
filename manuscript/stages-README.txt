@@ -1,2 +1,1 @@
-# Chapter 5
-# Architecture Stages
+# Chapter 5: Architecture Stages

@@ -1,2 +1,1 @@
-# Chapter 6
-# The Agile Architect
+# Chapter 6: The Agile Architect

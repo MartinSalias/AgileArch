@@ -1,5 +1,4 @@
-# Chapter 2
-# Architecture Flow
+# Chapter 2: Architecture Flow
 
 The traditional approach to Software Architecture has been to work for quite a long time defining the scope, laying out components, archetypes or layers, and sometimes even building parts of the architecture blocks before the actual solution starts.
 

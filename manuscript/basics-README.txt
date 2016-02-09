@@ -1,5 +1,4 @@
-# Chapter 1
-# Agile & Software Architecture
+# Chapter 1: Agile & Software Architecture
 
 Software development is a pretty new discipline. It started in theory with Charles Babbage and his Differential Engine, and Lady Augusta Ada Byron, Countess of Lovelace, becoming the first programmer in history, although she never had the actual computer to execute her programs!
 

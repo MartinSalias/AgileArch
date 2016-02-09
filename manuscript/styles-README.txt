@@ -1,2 +1,1 @@
-# Chapter 4
-# Architectural Styles
+# Chapter 4: Architectural Styles

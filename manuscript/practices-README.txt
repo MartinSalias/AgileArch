@@ -1,2 +1,1 @@
-# Chapter 3
-# Agile Architecture Practices
+# Chapter 3: Agile Architecture Practices
