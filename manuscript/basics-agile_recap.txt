@@ -26,8 +26,6 @@ Let's re-read these values from an architectural viewpoint, and ask some questio
 - Are we capable of changing our architecture when needed, instead of sticking to our prescribed model?
 
 
-
-
 ### My personal view on Agile
 
 After almost 20 years working under the agile paradigm, starting with the early XP days by the late 90s, as you might expect, I have some strong opinions about this model and its impact in the industry and the community.
