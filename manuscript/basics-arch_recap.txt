@@ -1,3 +1,6 @@
+
+{pagebreak}
+
 ## Software Architecture Recap
 
 > Software Development is a Complex human activity.
