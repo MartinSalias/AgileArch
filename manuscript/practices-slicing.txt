@@ -1,1 +1,82 @@
 ## Slicing
+
+The concept of slicing or breaking down User Stories (although the general idea can be applied to any other unit of work you use) into smaller ones is one of the most important aspects of Agile Software Development.
+
+As a community, we agree that the smaller (but valuable) a User Story is, the better, for several reasons:
+
+- More understandable
+- Simpler to prioritize (or re-prioritize)
+- Easier to estimate
+- Easier to decompose in implementation tasks
+- Fewer acceptance criteria; easier to test
+
+Above anything else, when we break down a User Story into several smaller ones, we have more chances to find less valuable items that can be deferred for later, and eventually discarded if they are not valuable enough as the development goes on. This is exactly the Agile Principle of Simplicity, defined as "the art of maximizing the amount
+of work not done".
+
+A> ## About "Technical" User Stories
+A>
+A> Before moving forward I want to highlight that I don't believe in "Technical" User Stories.
+A> My point is that a User Story should be valuable to the end user, not to the team, which is typically the case for "technical" items.
+A> But to properly solve User Stories, the dev team needs to break it down in Implementation Tasks. Most of the time, architectural issues appear at that level.
+A> Even if you are building Development Tools and Frameworks (something I did many times), then all your User Stories might be technical in nature, but they need to cover real user needs.
+
+
+### Functional Splitting Patterns
+
+One of my favorite resources to help teams to slice (or split) User Stories is Richard Lawrence's guide "Patterns for Splitting User Stories" [^PSUS].
+
+The guide proposes a three-step approach:
+
+1. Check the User Story quality and fix other problems before splitting
+2. Try a series of patterns to find ways to split it
+3. Evaluate the resulting User Stories to be sure everything is fine
+
+What's most important for us now are the patterns themselves. I recommend you to read the original post and even find out some additional patterns based on your experience, but let's list the 9 original patterns before extending them.
+
+1. Workflow Steps
+2. Business Rule Variation
+3. Major Effort
+4. Simple / Complex
+5. Variations in Data
+6. Data Entry Methods
+7. Defer Performance
+8. Operations
+9. Break Out a Spike
+
+Even without getting into details you can see the focus is to try to break down functionality in more granular parts, trying to be able to take the most valuable and ideally thinner part of each need, and provide the earliest and more valuable implementation, trying to prove or discard the hypothesis behind each User Story and also leveraging all the learning from this early delivery to better select what's next, the best approach to implement it, and even what's not needed at all.
+
+### Architectural Splitting Patterns
+
+Once you broke down your User Stories into smaller ones, you can still apply slicing strategies based on architectural concerns.
+
+You may have smelled some architectural patterns in the list above. For example: Variations in Data can be considered also as "Variations in protocols, message format, encoding, and other messaging attributes". Also, "Defer Performance", which tries to solve first the functional aspects of a User Story and leave a __potential__ optimization as a later Story, can be applied to several other Quality Attributes.
+
+Then, you can apply further splitting patterns when breaking each User Story down to its  Tasks. What's important is to reflect in the resulting User Stories this restriction, and keep being explicit about the remaining value.
+
+Some of the extended Splitting Patterns I found useful from experience are:
+
+#### User Experience level
+
+This approach is actually a huge topic in itself, but basically focus in providing the simpler UX approach first, iteratively test it with real users and keep refining for as long as needed, depending on the product.
+
+The UX field is so large and important right now that I prefer to point you elsewhere, probably starting with the books "Lean UX", by Jeff Gothelf and Josh Seiden, and "User Story Mapping", by Jeff Patton.
+
+#### Reliability Constraints
+
+User Stories related to reliability (when properly analyzed) tend to have strong acceptance criteria about accurate data input and data transformations, error-free state management, and non-corrupting recovery from detected failure condition.
+
+This is not typically the kind of User Stories you get at first, but they appear through Backlog Refinement and usually come from observed behavior after the application is already in use (or under specific testing conditions).
+
+The different constraints related to this normally have a highly different business value and implementation costs, so separating each constraint base on its calculated Return of Investment can be a smart move, and just doing this analysis can provide many insights for both the involved stakeholders and development team members.
+
+#### Manageability / Security levels
+
+#### Defer Performance / Availability / Efficiency / Scalability
+
+#### Staged Portability / Interoperability / Internationalization
+
+#### Taking / Paying Technical Debt
+
+
+
+[^PSUS]: http://agileforall.com/patterns-for-splitting-user-stories/
