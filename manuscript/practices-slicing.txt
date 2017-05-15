@@ -16,8 +16,11 @@ of work not done".
 A> ## About "Technical" User Stories
 A>
 A> Before moving forward I want to highlight that I don't believe in "Technical" User Stories.
+A>
 A> My point is that a User Story should be valuable to the end user, not to the team, which is typically the case for "technical" items.
+A>
 A> But to properly solve User Stories, the dev team needs to break it down in Implementation Tasks. Most of the time, architectural issues appear at that level.
+A>
 A> Even if you are building Development Tools and Frameworks (something I did many times), then all your User Stories might be technical in nature, but they need to cover real user needs.
 
 
