@@ -26,6 +26,7 @@ W> But to properly solve User Stories, the dev team needs to break it down in Im
 W>
 W> Even if you are building Development Tools and Frameworks (something I did many times), then all your User Stories might be technical in nature, but they need to cover real user needs.
 
+{pagebreak}
 
 ### Functional Splitting Patterns
 

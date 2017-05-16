@@ -61,7 +61,9 @@ Notice that in the example above the decision is generalized from Book Purchase 
 
 The "Metric" field in the card should become an automated test which can be executed either continually (in every commit) or in a nightly profile (for load or performance testing requiring long-running or heavy processes which you don't want to compromise your network during the day).
 
-**Important:** Automatically validating your architectural decisions and testing those continually is one of the main focus of an Agile Architecture approach. The Team needs to know if anything they do (either changing an architectural component or adjusting some business logic) breaks some of the expectations about quality they discussed with stakeholders, and be able to quickly find what happened and fix it.
+T> ## Automation
+T>
+T> Automatically validating your architectural decisions and testing those continually is one of the main focus of an Agile Architecture approach. The Team needs to know if anything they do (either changing an architectural component or adjusting some business logic) breaks some of the expectations about quality they discussed with stakeholders, and be able to quickly find what happened and fix it.
 
 
 [^QAW]: “Software Architecture in Practice”, 3rd edition, Len Bass, Paul Clements, Rick Kazman, SEI Series, Pearson, 2013.

@@ -1,13 +1,11 @@
 ### Disclaimer:
 This book is still being written. The topics in the table of content will probably change over time. Also, I'm writing following a slicing strategy: instead of writing whole chapters or sections, I'm constantly adding text everywhere, trying to cover a wider range first, then going deeper in each topic, in an organic fashion. I can't guarantee the results, but I'm having fun!
 
-Please feel free to provide feedback to me as you want. The easier way to contact me is via Twitter at [@MartinSalias](http://twitter.com/MartinSalias).
-
-And don't forget to visit us at [Kleer](http://kleer.la)!
+Please feel free to provide feedback to me as you want. The easier way to contact me is via Twitter at [@MartinSalias](http://twitter.com/MartinSalias). And don't forget to visit us at [Kleer](http://kleer.la)!
 
 Thanks for reading!
 
-## Overview
+# Overview
 
 Software Architecture is a wide and complex discipline, full of different perspectives, opinions and definitions. If there is something in which most practitioners agree is in its importance, and how the lack of thought on the subject -even while it should be proportional to the problem at hand- tends to produce poor or downright deficient results.
 
