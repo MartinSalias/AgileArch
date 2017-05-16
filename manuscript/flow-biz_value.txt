@@ -32,18 +32,23 @@ Even if you are not following Scrum, this diagram shows  high level view of most
 
 How can we mix architectural __stuff__ all over there?
 
-- Planning and Reviews
-  While discussing every item with stakeholders, the team can use the Architectural Tarot (or any other technique) to better understand the quality attributes involved.
-  Based on the expected behavior, the team might come up with some quality metrics which may become either (a) Acceptance Criteria for this particular item or (b) something to be added to the Definition of Done, as it will be expected on several different contexts.
+#### Planning and Reviews
+While discussing every item with stakeholders, the team can use the Architectural Tarot (or any other technique) to better understand the quality attributes involved.
 
-- Retrospectives
-  As part of the focus on improvement, the team can review how the architecture is doing so far, trying to figure out potential problems and spot common excesses on time.
-  Some inductive reasoning questions I use for that are:
-  . What we feel is too fragile so far?
-  . What is being to hard to do?
-  . What can be simpler in our current architecture?
+Based on the expected behavior, the team might come up with some quality metrics which may become either (a) Acceptance Criteria for this particular item or (b) something to be added to the Definition of Done, as it will be expected on several different contexts.
+
+#### Retrospectives
+
+As part of the focus on improvement, the team can review how the architecture is doing so far, trying to figure out potential problems and spot common excesses on time.
+
+Some inductive reasoning questions I use for that are:
+
+- What we feel is too fragile so far?
+- What is being to hard to do?
+- What can be simpler in our current architecture?
 
 A few recommendations before closing this section:
+
 - Keep architectural ideas coming from the retrospectives on the lookout for next planning
 - Beware of polluting the Definition of Done
 - Remember the Definition of Done **should be understood and agreed** with the customers/stakeholders

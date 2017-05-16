@@ -45,15 +45,15 @@ Whenever one of this issues appears the Team (together with the involved stakeho
 >
 > Context:
 >
->   Once a Purchase is confirmed, the user should not wait for confirmation.
+>> Once a Purchase is confirmed, the user should not wait for confirmation.
 >
 > Metric:
 >
->   After confirmation, "Keep shopping" page should take no more than 0.4 seconds to render.
+>> After confirmation, "Keep shopping" page should take no more than 0.4 seconds to render.
 >
 > Strategy:
 >
->   Operations are queued, and eventual failure will be informed by email and site notifications.
+>> Operations are queued, and eventual failure will be informed by email and site notifications.
 >
 
 

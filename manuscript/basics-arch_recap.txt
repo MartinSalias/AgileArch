@@ -3,9 +3,9 @@
 
 ## Software Architecture Recap
 
-> Software Development is a Complex human activity.
+>>> Software Development is a Complex human activity.
 
-> Angel "Java" López
+>>> Angel "Java" López
 
 Of course I won't dare to define Software Architecture on my own, as this is an often debated topic, and I'm not planning to add a lot of heat to this.
 
