@@ -78,12 +78,40 @@ The different constraints related to this normally have a highly different busin
 
 #### Manageability / Security levels
 
+Configuration aspects can be split over time, deferring complexity from (hopefully short-term) hard-coded values, config files/resources, admin dashboards, cold or hot reconfiguration mechanics, and more.
+
+In a similar way, Security can be split along different axis like internal/external, authentication/authorization, user-level, api-level, component-level, code-access-level, resource-level (like DB and services accounts) and much more. Security is always a complex and sometimes very restrictive, so the ability to spread various security concerns over a long period tends to be a good idea. In very sensitive scenarios, each User Story can have very specific Security Acceptance Criteria, or can be checked against a specific set of Security concerns gradually added to the Definition of Done.
+
 #### Defer Performance / Availability / Efficiency / Scalability
+
+As important as these factors can be in different scenarios, they are usually pretty difficult to plan ahead without over-engineering. As we will see in other sections, a recurring pattern is to agree on some baseline value as part of the User Story Acceptance Criteria and build an automated test to verify this. Of course such tests are not always trivial, and that encourage good conversation with stakeholders about the real importance of these attributes in a given context.
+
+It should be also noted that building the first few testing scenarios for these Quality Attributes take more effort, but the required environments and tools and scripts used tend to stabilize over time and further automation effort usually decrease.
 
 #### Staged Portability / Interoperability / Internationalization
 
+For every User Story dealing with these attributes tend to be breath goals like:
+
+- target platforms
+- systems, protocols, messaging, data sources
+- languages or locales to support
+
+But each of these dimensions have also depth goals:
+
+- versions (or version ranges) within each platform
+- versions, encodings, message formats
+- static text, dynamic text, localized media, date and currency formats, calendars
+
+In many cases there can be a complex matrix for each of this Quality Attribute that can be split over time. Staging this changes usually break down functional and technical implementation.
+
 #### Taking / Paying Technical Debt
 
+I like to take this as a separate pattern that can encompass any of the previous attributes, and it uses the Technical Debt metaphor coined by Ward Cunningham[^TD].
+
+Following the initial idea, when the team takes Technical Debt, it should be explicit and managed. This is very different than implementing "just what is needed". If you write clean code without extensibility points that you don't need yet, this is not Debt at all. You will just have to spend a bit more refactoring whenever (and if) the extensibility is needed later on. This kind of decision is not incurring on any interest.
+
+Now, if the team is explicitly leaving a substandard or partial implementation of a component (one with known risks and issues) then they have to track this, and my favorite way to do it is by thinking what is the problem/risk it generates for the users, discussing it with the stakeholders, and then coming up with a User Story expressing that need: not the technical detail, but the need to prevent the unwanted circumstance the current implementation leaves open.
 
 
 [^PSUS]: http://agileforall.com/patterns-for-splitting-user-stories/
+[^TD]: Explained at Martin Fowler's bliki: https://martinfowler.com/bliki/TechnicalDebt.html
